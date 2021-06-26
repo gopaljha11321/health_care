@@ -1,0 +1,90 @@
+.container1
+{
+    position: relative;
+    background-color: skyblue;
+    width:80%;
+    height:auto;  
+    align-items: center;  
+    display: block;
+    left:10%;
+}
+#num
+{
+font-weight: bolder;
+text-align: center;
+position: relative;
+background-color:blue;
+width:380px;
+height: 50px;
+color:white;
+font-size: 30px
+
+}
+.fonth
+{
+   color:black;
+   font-weight: bolder;
+   font-family: sans-serif;
+}
+table{
+    margin-top: 10px;
+    margin-left:0px;
+    background-color:transparent;
+    font-size:20px;
+    width: 100%;   
+}
+.container2
+{
+   position: relative;
+  
+   width:80%;
+   height:250px;
+   margin-top: 30px;
+   left:10%
+}
+#font3
+{
+    font-size: 20px;
+    color:black;
+    font-weight:bold ;
+}
+.confiremed
+{
+    margin-top: 10px;
+    color:red;
+    text-align: left;
+    font-family: sans-serif;
+    float: left;
+    font-size: 30px;
+    margin-left: 80px;
+}
+.active
+{
+    margin-top: 10px;
+    margin-left: 80px;
+    color:skyblue;
+    text-align: left;
+    font-family: sans-serif;
+    float: left;
+    font-size: 30px;
+}
+.recovered
+{
+    margin-top: 10px;
+    margin-left: 80px;
+    color:green;
+    text-align: left;
+    font-family: sans-serif;
+    float: left;
+    font-size: 30px;
+}
+.deceased
+{
+    margin-top: 10px;
+    margin-left: 80px;
+    color:black;
+    text-align: left;
+    font-family: sans-serif;
+    float: left;
+    font-size: 30px;
+}
