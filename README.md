@@ -1,5 +1,5 @@
 # health_care
-Team memberes are:
+Team members are:
 Gopal Jha & Shivam Jha
 
 * This site is hosted on Github host service, it also contains all the credential file. 
@@ -16,4 +16,5 @@ Gopal Jha & Shivam Jha
 
 >Contact:- https://gopaljha11321.github.io/health_contact/
 * I hope you like our project .
+* Completely responsible for any resolution link (phone & pc) 
 * Thanks 
